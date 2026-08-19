@@ -25,13 +25,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-###
+![snake gif](https://github.com/Jayesh-xD/Jayesh-xD/blob/output/github-snake-dark.svg)
 
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
-
-###
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayesh-xd&label=Profile%20views&color=0e75b6&style=flat" alt="jayesh-xd" /> </p>
 
